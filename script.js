@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "212XXXXXXXXX"; // Replace with your WhatsApp number, e.g. 212612345678
+const WHATSAPP_NUMBER = "212762056944"; // Replace with your WhatsApp number, e.g. 212612345678
 
 const translations = {
   en: {
